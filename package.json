@@ -33,7 +33,7 @@
     "glob": "~3.2.6",
     "js-yaml": "~3.0.1",
     "load-grunt-tasks": "~0.3.0",
-    "jit-grunt": "git://github.com/schmod/jit-grunt#1ddec4d2e75b53104b9880f0df89699cd5fe6f24",
+    "jit-grunt": "git://github.com/schmod/jit-grunt#npmDeps",
     "lodash-node": "~2.4.1",
     "async": "~0.2.10"
   }
